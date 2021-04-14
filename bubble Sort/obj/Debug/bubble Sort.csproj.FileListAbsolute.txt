@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\bin\Debug\bubble Sort.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\bin\Debug\bubble Sort.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\bin\Debug\bubble Sort.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\obj\Debug\bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\obj\Debug\bubble_Sort.MainForm.resources
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\obj\Debug\bubble Sort.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\obj\Debug\bubble Sort.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\bubble Sort\bubble Sort\obj\Debug\bubble Sort.pdb
